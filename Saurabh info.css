@@ -1,0 +1,46 @@
+*{
+    background-color:darkgray;
+}
+h1{
+   text-align: center;
+}
+h2{
+    margin-left: 30%;
+}
+
+img{
+    width: 20%;
+    margin-left: 40%;
+    
+    clip-path: circle(50% at 50% 50%);
+
+}
+.div1{
+    text-align: center;
+    text-align: left;
+    margin-left:32%;
+    font-size: larger;
+    size: 10px;
+}
+.link{
+    text-decoration: none;
+    color: black;
+}
+table,th,td{
+
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+table{
+    margin-top: 15px;
+    width: 50%;
+    margin-left: 30%;
+    
+}
+th,td{
+    text-align: center;
+    height: 30px;
+}
+.info{
+    margin-left: 7%;
+}
